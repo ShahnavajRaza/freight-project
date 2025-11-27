@@ -115,7 +115,7 @@
         </div>
     </section>
 
-    <p>Hello this is git testing </p>
+    <p>Hello this is git testing new </p>
 
 
     <!-- About Section -->
