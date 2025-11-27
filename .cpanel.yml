@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home2/evgsoijq/public_html/freight-matters/
+    - export DEPLOYPATH=/home2/evgsoijq/public_html/freight/
     - /bin/rsync -av --delete ./ $DEPLOYPATH
